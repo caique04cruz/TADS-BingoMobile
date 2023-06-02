@@ -1,3 +1,3 @@
-# TADS-BingoMobile
+# TADS-BingoMobile.
 O jogo de bingo é ambientado em um contexto no qual os jogadores recebem cartelas numeradas e 
 Um conjunto de números é sorteado aleatoriamente. O objetivo é marcar os números sorteados em suas cartelas até que um padrão específico, como uma linha, coluna ou diagonal, seja completado. Os jogadores interagem com o jogo ao marcar os números sorteados em suas cartelas, seja fisicamente com marcadores ou virtualmente em plataformas digitais. A experiência do jogo é marcada pela emoção e expectativa à medida que os números são sorteados, gerando tensão e antecipação para os jogadores. O sentimento desejado é de satisfação ao completar os padrões na cartela e de empolgação ao competir com outros jogadores para alcançar a vitória.
